@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markel.Api", "Markel.Api\Markel.Api.csproj", "{B2A0C4BD-38B5-443B-B6B0-230AA3956707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markel.Db", "Markel.Db\Markel.Db.csproj", "{D0086AF5-88DE-4BF2-95FF-24841A7ED6FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markel.Service", "Markel.Service\Markel.Service.csproj", "{5F10C234-39C0-49C5-A7B2-20A6288A1287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markel.Service.Test", "Markel.Service.Test\Markel.Service.Test.csproj", "{B2270833-333D-4A40-ACFA-EAE8E38C5631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markel.DataLayer", "Markel.DataLayer\Markel.DataLayer.csproj", "{A213FC36-7D4D-4D39-A183-9A6B6BDAE9C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markel.Api.Test", "Markel.Api.Test\Markel.Api.Test.csproj", "{77C14959-28AE-4FE6-B5E4-3525770D9E1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2A0C4BD-38B5-443B-B6B0-230AA3956707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A0C4BD-38B5-443B-B6B0-230AA3956707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A0C4BD-38B5-443B-B6B0-230AA3956707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A0C4BD-38B5-443B-B6B0-230AA3956707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0086AF5-88DE-4BF2-95FF-24841A7ED6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0086AF5-88DE-4BF2-95FF-24841A7ED6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0086AF5-88DE-4BF2-95FF-24841A7ED6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0086AF5-88DE-4BF2-95FF-24841A7ED6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F10C234-39C0-49C5-A7B2-20A6288A1287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F10C234-39C0-49C5-A7B2-20A6288A1287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F10C234-39C0-49C5-A7B2-20A6288A1287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F10C234-39C0-49C5-A7B2-20A6288A1287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2270833-333D-4A40-ACFA-EAE8E38C5631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2270833-333D-4A40-ACFA-EAE8E38C5631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2270833-333D-4A40-ACFA-EAE8E38C5631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2270833-333D-4A40-ACFA-EAE8E38C5631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A213FC36-7D4D-4D39-A183-9A6B6BDAE9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A213FC36-7D4D-4D39-A183-9A6B6BDAE9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A213FC36-7D4D-4D39-A183-9A6B6BDAE9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A213FC36-7D4D-4D39-A183-9A6B6BDAE9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C14959-28AE-4FE6-B5E4-3525770D9E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C14959-28AE-4FE6-B5E4-3525770D9E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C14959-28AE-4FE6-B5E4-3525770D9E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C14959-28AE-4FE6-B5E4-3525770D9E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25DF2605-1C0C-4A08-854A-BBA7D8AD06FB}
+	EndGlobalSection
+EndGlobal
